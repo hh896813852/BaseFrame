@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textButton"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:layout_alignParentRight="true"
+    android:clickable="true"
+    android:gravity="center_vertical"
+    android:paddingRight="10dp"
+    android:text="文字按钮"
+    android:textColor="@color/nhs_text_black"
+    android:textSize="@dimen/actionbarTextButtonSize" />

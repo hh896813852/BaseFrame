@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SideBar">
+        <attr name="letterTextSize" format="dimension" />
+        <attr name="letterTextColor" format="color" />
+        <attr name="letterTextSelectedColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CycleView">
+        <attr name="cycleColor" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+    </declare-styleable>
+</resources>

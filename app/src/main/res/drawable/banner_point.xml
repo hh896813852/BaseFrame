@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item android:drawable="@drawable/ic_banner_point_selected" android:state_enabled="true"/>-->
+    <!--<item android:drawable="@drawable/ic_banner_point_normal" android:state_enabled="false"/>-->
+
+    <item android:state_enabled="true">
+        <shape
+            android:shape="oval"
+            android:useLevel="false">
+            <solid android:color="@color/nhs_bg_red" />
+            <size android:width="6dp" android:height="6dp"/>
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape
+            android:shape="oval"
+            android:useLevel="false">
+            <solid android:color="@color/nhs_bg_white" />
+            <size android:width="6dp" android:height="6dp"/>
+        </shape>
+    </item>
+
+</selector>

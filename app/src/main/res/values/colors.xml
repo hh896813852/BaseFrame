@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- 颜色规范 -->
+    <!-- 命名规范 字体颜色 nhs_text -->
+    <!-- 命名规范 背景景色 nhs_bg -->
+    <!-- 命名规范 背景divider nhs_bg -->
+
+    <!-- 字体 -->
+    <!-- 字体 -->
+    <!-- 字体 -->
+    <!-- 字体 白色 -->
+    <color name="nhs_text_white">#ffffffff</color>
+    <!-- 字体 黑色 -->
+    <color name="nhs_text_black">#ff333333</color>
+    <!-- 字体 深灰 -->
+    <color name="nhs_text_dark_gray">#ff666666</color>
+    <!-- 字体 灰色 ff969696-->
+    <color name="nhs_text_gray">#999999</color>
+    <!-- 字体 灰字hint -->
+    <color name="nhs_text_gray_hint">#ffc7c7c7</color>
+    <!-- 字体 红色 -->
+    <color name="nhs_text_red">#ea595c</color>
+    <!-- 字体 红色按下 -->
+    <color name="nhs_text_red_pressed">#ffc72b2b</color>
+    <!-- 字体 橙色 -->
+    <color name="nhs_bg_red_orange">#ffff4c26</color>
+    <!-- 字体 橙色 -->
+    <color name="nhs_text_orange">#fffa7514</color>
+    <!-- 字体 深黄色 -->
+    <color name="nhs_text_dark_yellow">#ffff9700</color>
+    <!-- 字体 黄色 -->
+    <color name="nhs_text_yellow">#ffffc923</color>
+    <!-- 字体 绿色 -->
+    <color name="nhs_text_green2">#3cb135</color>
+    <!-- 字体 绿色 -->
+    <color name="nhs_text_green">#00c18c</color>
+    <!-- 字体 绿色 -->
+    <color name="nhs_text_green3">#26c45a</color>
+    <!-- 字体 篮绿色 -->
+    <color name="nhs_text_blue_green">#61C3B6</color>
+    <!-- 字体 蓝色 -->
+    <color name="nhs_text_blue">#5e69f4</color>
+    <!-- 字体 淡蓝色 -->
+    <color name="nhs_text_light_blue">#ff5195e1</color>
+
+    <!-- 背景 -->
+    <!-- 背景 -->
+    <!-- 背景 -->
+    <!-- 背景 白色 -->
+    <color name="l4_main">#fe5a98</color>
+    <color name="nhs_bg_white">#ffffffff</color>
+    <!-- 背景 黑色 -->
+    <color name="nhs_bg_black">#ff333333</color>
+    <!-- 背景 灰色 -->
+    <color name="nhs_bg_gray">#ff969696</color>
+    <!-- 背景 灰色 -->
+    <color name="nhs_bg_gray2">#ffcccccc</color>
+    <!-- 背景 浅灰色 -->
+    <color name="nhs_bg_light_gray">#e6e7e9</color>
+    <!-- 背景 红色 -->
+    <color name="nhs_bg_red">#e65a5e</color>
+    <!-- 背景 红色按下 -->
+    <color name="nhs_bg_red_pressed">#ffF72A40</color>
+    <!-- 背景 橙色 -->
+    <color name="nhs_bg_orange">#ffff9700</color>
+    <!-- 背景 积蓄宝背景色 -->
+    <color name="nhs_bg_gold">#ffFFB900</color>
+    <!-- 字体 淡黄色 -->
+    <color name="nhs_bg_light_yellow">#ffFFF8EB</color>
+    <!-- 背景 粉色 -->
+    <color name="nhs_bg_pink">#fffbdae0</color>
+    <!-- 背景 浅灰金色 二维码 -->
+    <color name="nhs_bg_light_gold">#fffff1d6</color>
+    <!-- 背景 浅蓝色 -->
+    <color name="nhs_bg_light_blue">#ff009BFF</color>
+
+    <!-- 标签 -->
+    <!-- 标签 -->
+    <!-- 标签 -->
+    <!-- 标签 紫色    折 -->
+    <color name="nhs_bg_discount">#ffC359FD</color>
+    <!-- 标签 红粉色  减 -->
+    <color name="nhs_bg_reduce">#ffFE6EAB</color>
+    <!-- 标签 橘黄色  送 -->
+    <color name="nhs_bg_send">#ffFE9146</color>
+    <!-- 标签 蓝色    抵（抵用券） -->
+    <color name="nhs_bg_ticket">#ff54ADFF</color>
+    <!-- 标签 蓝色    券（代金券） -->
+    <color name="nhs_bg_coupon">#ff26C3E4</color>
+    <!-- 标签 橘黄色  团 -->
+    <color name="nhs_bg_group_buy">#ffFD585C</color>
+    <!-- 背景 红色    包邮 -->
+    <color name="nhs_bg_mail">#ffFD4A4A</color>
+    <!-- 标签 红色    HOT -->
+    <color name="nhs_bg_hot">#ffff5353</color>
+
+    <!-- 分隔线 灰色 -->
+    <color name="nhs_line_gray">#ffe5e5e5</color>
+    <!-- 分隔线 浅灰色 -->
+    <color name="nhs_line_light_gray">#fff7f7f7</color>
+    <!-- 分隔线 深灰色 -->
+    <color name="nhs_line_dark_gray">#ff969696</color>
+
+    <!-- 半透明 -->
+    <!-- 背景 半透明黑 -->
+    <color name="nhs_bg_alpha_black">#99000000</color>
+    <!-- 背景 半透明白 -->
+    <color name="nhs_bg_alpha_white">#e6ffffff</color>
+</resources>
